@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+p {
+  margin-top: 30px;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+.btn {
+  margin-top: 20px;
+}

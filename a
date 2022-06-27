@@ -1,0 +1,22 @@
+<form class="login-form" action="javascript:void(0);">
+  <h1>Login</h1>
+  <div class="form-input-material">
+    <input type="text" name="username" id="username" placeholder=" " autocomplete="off" class="form-control-material" required />
+    <label for="username">Username</label>
+  </div>
+  <div class="form-input-material">
+    <input type="password" name="password" id="password" placeholder=" " autocomplete="off" class="form-control-material" required />
+    <label for="password">Password</label>
+  </div>
+  <button type="submit" class="btn btn-primary btn-ghost">Login</button>
+</form>
+
+<form class="form" action="" method="get">
+  <h1>IMC Calculator</h1>
+  <p>Nome: <input type="text" class="nome"></p>
+  <p>Sobrenome: <input type="text" class="sobrenome"></p>
+  <p>Idade: <input type="text" class="idade"></p>
+  <p>Peso: <input type="text" class="peso"></p>
+  <p>Altura: <input type="text" class="altura"></p>
+  <button class="btn">Enviar</button>
+</form>
